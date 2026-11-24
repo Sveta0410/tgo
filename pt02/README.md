@@ -13,7 +13,7 @@
 9.82 мин
 
 #### Кривая обучения (train_curve.csv)
-![train_curve.csv](\tgo\pt02\train_curve.png)
+![train_curve.csv](train_curve.png)
 
 #### Четыре образца (samples.json)
 | Шаг  | Результат                       |
